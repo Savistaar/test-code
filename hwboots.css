@@ -1,0 +1,27 @@
+header{
+    background-color: rgb(106, 184, 252);
+}
+
+.w{
+    background-color: rgb(137, 233, 255);
+margin: 40px;
+}
+.col{
+    border: 2px solid rgb(114, 166, 250);
+font-weight: bold;
+margin-top: 50px;
+margin-left: 20px;
+margin-left: 20px;
+background-color: rgb(139, 235, 250);
+}
+.info{
+    margin: 20px;
+    font-weight: lighter;
+   
+    background-color: rgb(168, 245, 252);
+}
+.navbar-brand{
+  font: 1rem/1.5 var (--bs-font-san-serif);
+  color: var(--bs-blue);
+  
+}
